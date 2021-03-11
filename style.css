@@ -1,0 +1,40 @@
+.first-header{
+	background-color: #403E3E;
+	display: inline-flex;
+	white-space: nowrap;
+}
+ ul{
+    list-style: none;
+}
+.container-fluid{
+	width: 100%;
+}
+.btn-default{
+	background-color: #403E3E; 
+    border: none;
+    color: white;
+}
+.second-header{
+	background-color: #080808;
+	color: #FFFFFF;
+}
+.third-header{
+	background-color: #C63A3A;
+	color: #FFFFFF;
+}
+.nav{
+	background-color: #C63A3A;
+	color: #FFFFFF;
+}
+.nav-pills{
+	background-color: black;
+	display: inline-flex;
+}
+.main{
+	float: left;
+    position: relative;
+}
+
+.news1{
+	display: block;
+}
